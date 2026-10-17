@@ -50,8 +50,8 @@ Deep Learning & Computer Vision
 
 
 👥 คณะผู้วิจัยและที่ปรึกษาโครงการ
-Panyanat Aonpong(อาจารย์ที่ปรึกษาหลัก / Principal Advisor)
-Putthapong Phumsombat(อาจารย์ที่ปรึกษา / Co-Advisor)
-Piyaporn Jirawatcharadech(อาจารย์ที่ปรึกษา / Co-Advisor)
-Ponsan Pattanakit(Me) 
-Kittiya Rattanawong(รุ่นพี่ที่ปรึกษา / Mentor)
+- Panyanat Aonpong(อาจารย์ที่ปรึกษาหลัก / Principal Advisor)
+- Putthapong Phumsombat(อาจารย์ที่ปรึกษา / Co-Advisor)
+- Piyaporn Jirawatcharadech(อาจารย์ที่ปรึกษา / Co-Advisor)
+- Ponsan Pattanakit(Me) 
+- Kittiya Rattanawong(รุ่นพี่ที่ปรึกษา / Mentor)
