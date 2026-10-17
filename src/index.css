@@ -1,0 +1,25 @@
+/* Tailwind (ต้องมีในโปรเจกต์) */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* เสริมความอ่านง่ายให้ปุ่ม disable/enable */
+.btn-disabled,
+.btn:disabled {
+    @apply opacity-50 cursor-not-allowed;
+}
+
+/* กรอบเส้นประพื้นที่แสดงภาพ */
+.colony-frame {
+    border: 1px dashed #bbb;
+}
+
+/* ตัวเลขบนกล่องอ่านง่ายขึ้นเล็กน้อย */
+.canvas-label {
+    font: 12px sans-serif;
+}
+
+/* ให้ Canvas ไม่เบลอ (สำคัญถ้า scale) */
+canvas {
+    image-rendering: pixelated;
+}

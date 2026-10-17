@@ -1,0 +1,5 @@
+train: ../Finaldata/train/images
+val: ../Finaldata/test/images
+
+nc: 1
+names: ['colony']
