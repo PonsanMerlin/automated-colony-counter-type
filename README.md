@@ -18,7 +18,7 @@ Markdown
 
 ⚡ ไฮไลต์ผลการทดลอง (Key Performance & Achievements)
 - หมวดหมู่การประเมิน (Metric) ผลลัพธ์ (Performance)
-  - ฉolony Detection Accuracy (ความแม่นยำในการตรวจจับโคโลนี) 87.8%
+  - Colony Detection Accuracy (ความแม่นยำในการตรวจจับโคโลนี) 87.8%
   - Color Analysis Accuracy (ความแม่นยำในการวิเคราะห์จำแนกสี) 89.1%
 - Human-in-the-loop Workflowลดภาระงานของนักวิจัย และแก้ปัญหาความกำกวมของสีโคโลนีได้อย่างมีประสิทธิภาพ
 
